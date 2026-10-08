@@ -1,16 +1,21 @@
-## Hello I am Avante
+<p align="center">
+    <img src="./assets/AvanteAvatar.jpeg" alt="Avante Avatar" width="200" style="border-radius: 50%">
+</p>
 
-<!--
-**avantenaidoo/avantenaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+that+codes+and+scuba+dives...)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+##
+<!--Languages and web technologies-->
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,cs,python,java,html,css" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Technologies-->
+
+<p align="center" >
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs,vitest,jest,mongodb,dotnet,nodejs,express,docker,git,postgres,graphql,apollo,tauri,rust,electron,vscode,visualstudio,azure,kubernetes,nginx,vercel,windows,apple,linux&perline=11" />
+    </a>
+</p>

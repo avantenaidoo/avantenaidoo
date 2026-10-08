@@ -2,7 +2,7 @@
     <img src="./assets/AvanteAvatar.jpeg" alt="Avante Avatar" width="200">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+that+codes+and+scuba+dives...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=3000&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=Developer+that+codes+and+scuba+dives...)](https://git.io/typing-svg)
 
 ##
 <!--Languages and web technologies-->

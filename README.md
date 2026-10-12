@@ -7,15 +7,13 @@
 ##
 <!--Languages and web technologies-->
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,cs,python,java,html,css" />
-    </a>
+        <img src="https://skillicons.dev/icons?i=ts,js,cs,python,java,html,css" 
+        alt="Programming Languages and technologies: TypeScript, JavaScript, csharp, Python, java, HTML and CSS"/>
 </p>
 
 <!--Technologies-->
 
 <p align="center" >
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs,vitest,jest,mongodb,dotnet,nodejs,express,docker,git,postgres,graphql,apollo,tauri,rust,electron,vscode,visualstudio,azure,kubernetes,nginx,vercel,windows,apple,linux&perline=11" />
-    </a>
+        <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs,vitest,jest,mongodb,dotnet,nodejs,express,docker,git,postgres,graphql,apollo,tauri,rust,electron,vscode,visualstudio,azure,kubernetes,nginx,vercel,windows,apple,linux&perline=11" 
+        alt="Technologies and tools: React, Tailwind CSS, Vite, Next.js, Vitest, Jest, MongoDB, .NET, Node.js, Express, Docker, Git, PostgreSQL, GraphQl, Apollo, Tauri, Rust, Electron, Visual Studio Code, Visual Studio, Azure, Kubernetes, Nginx, Vercel, Windows, Apple and Linux"/>
 </p>
